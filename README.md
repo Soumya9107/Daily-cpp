@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Soumya9107/Daily-cpp/tree/master/0033-search-in-rotated-sorted-array) |
 | [2029-stone-game-ix](https://github.com/Soumya9107/Daily-cpp/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Soumya9107/Daily-cpp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Soumya9107/Daily-cpp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Soumya9107/Daily-cpp/tree/master/2029-stone-game-ix) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Soumya9107/Daily-cpp/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
