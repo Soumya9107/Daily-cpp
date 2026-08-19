@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Soumya9107/Daily-cpp/tree/master/0033-search-in-rotated-sorted-array) |
+| [1386-cinema-seat-allocation](https://github.com/Soumya9107/Daily-cpp/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Soumya9107/Daily-cpp/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Soumya9107/Daily-cpp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Soumya9107/Daily-cpp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Soumya9107/Daily-cpp/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Soumya9107/Daily-cpp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Soumya9107/Daily-cpp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Soumya9107/Daily-cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -74,10 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Soumya9107/Daily-cpp/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Soumya9107/Daily-cpp/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Soumya9107/Daily-cpp/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Soumya9107/Daily-cpp/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
