@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Soumya9107/Daily-cpp/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Soumya9107/Daily-cpp/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2029-stone-game-ix](https://github.com/Soumya9107/Daily-cpp/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Soumya9107/Daily-cpp/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Soumya9107/Daily-cpp/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Minimax
 |  |
 | ------- |
@@ -105,6 +107,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Soumya9107/Daily-cpp/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/Soumya9107/Daily-cpp/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Soumya9107/Daily-cpp/tree/master/3904-smallest-stable-index-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Soumya9107/Daily-cpp/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
